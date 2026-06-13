@@ -1,5 +1,5 @@
 # Repo-Santy
 Mi primer repositoria creado en github
 
-"" Descripcion
+# Descripcion
 esto es un repo de inicio
